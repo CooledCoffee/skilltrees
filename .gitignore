@@ -1,0 +1,6 @@
+# common files
+.*
+*.log
+*.swp
+*~
+
