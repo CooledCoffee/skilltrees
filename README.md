@@ -9,3 +9,5 @@
 [Python - 测试攻城狮技能树](技能树/Python攻城狮技能树/测试攻城狮技能树.md)<br />
 [Python - 网站攻城狮技能树](技能树/Python攻城狮技能树/网站攻城狮技能树.md)<br />
 [Python - 后端攻城狮技能树](技能树/Python攻城狮技能树/后端攻城狮技能树.md)<br />
+[Python - 数据分析攻城狮技能树](技能树/Python攻城狮技能树/数据分析攻城狮技能树.md)<br />
+[Python - AI攻城狮技能树](技能树/Python攻城狮技能树/AI攻城狮技能树.md)<br />
